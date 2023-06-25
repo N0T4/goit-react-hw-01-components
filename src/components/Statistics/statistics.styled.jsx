@@ -19,6 +19,7 @@ text-align: center;
 font-weight: bold;`
 
 const StatsUl = styled.ul`
+background-color: black;
 display: flex;
 margin: 0;
 padding: 0;
